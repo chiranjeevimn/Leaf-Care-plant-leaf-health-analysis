@@ -10,3 +10,6 @@ This repository contain plant leaf disease detection project source code.
 ##### Your "plant_disease.pt" should be in this folder. You have to trained that model in your pc/laptop and drag it to this folder
 
 ##### Make sure if you change the model name then also change the name of the model argument in the app.py
+
+# 🌟 Dataset Link
+## https://data.mendeley.com/datasets/tywbtsjrjv/1 
